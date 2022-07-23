@@ -66,7 +66,7 @@ VALUES
 INSERT INTO SpotifyClone.Cantor (nome)
 VALUES
   ('Walter Phoenix'),
-  ('Walter Phoenix'),
+  ('Peter Strong'),
   ('Lance Day'),
   ('Freedie Shannon'),
   ('Tyler Isle'),
