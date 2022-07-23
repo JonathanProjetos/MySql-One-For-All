@@ -1,0 +1,16 @@
+{
+  "coluna_usuario": "nome",
+  "tabela_que_contem_usuario": "Cliente",
+  "coluna_plano": "assinatura",
+  "tabela_que_contem_plano": "Plano",
+  "coluna_historico_de_reproducoes": "data",
+  "tabela_que_contem_historico_de_reproducoes": "Historico",
+  "coluna_seguindo_artistas": "cantor_id_fk",
+  "tabela_que_contem_seguindo_artistas": "Seguindo",
+  "coluna_artista": "nome",
+  "tabela_que_contem_artista": "Cantor",
+  "coluna_album": "nome",
+  "tabela_que_contem_album": "Albuns",
+  "coluna_cancoes": "faixas",
+  "tabela_que_contem_cancoes": "Musicas"
+}
