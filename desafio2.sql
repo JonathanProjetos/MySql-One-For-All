@@ -1,5 +1,5 @@
 SELECT 
-	  COUNT(m.id) AS cancoes,
+	COUNT(m.id) AS cancoes,
     COUNT(c.id) AS artistas,
     COUNT(a.id) AS albuns
 FROM SpotifyClone.Musicas AS m
