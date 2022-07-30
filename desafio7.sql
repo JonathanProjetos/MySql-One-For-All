@@ -1,5 +1,5 @@
 SELECT 
-	  ca.nome AS artista,
+	ca.nome AS artista,
     al.nome AS album,
     COUNT(se.cantor_id_fk) AS seguidores
 FROM SpotifyClone.Cantor AS ca
