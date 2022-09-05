@@ -2,7 +2,7 @@
 
 # Contexto
 
-O objetivo da aplicação é normalizar uma tabela para a terceira forma e desenvolver queries para busca de dados específicos no banco.
+O objetivo da aplicação, é normalizar uma tabela para a terceira forma normal e desenvolver queries para busca de dados específicos no banco.
 
 ## Importante
 
